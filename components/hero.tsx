@@ -136,7 +136,7 @@ export default function Hero() {
             <ExternalLink className="h-5 w-5 group-hover:scale-110 transition-transform" />
             <span className="sr-only">Fiverr</span>
           </Link>
-          <Link href="https://wa.me/91 9760299195" className="bg-background hover:bg-primary/10 transition-colors p-3 rounded-full group">
+          <Link href="https://wa.me/9760299195" className="bg-background hover:bg-primary/10 transition-colors p-3 rounded-full group">
             <MessageCircle className="h-5 w-5 group-hover:scale-110 transition-transform" />
             <span className="sr-only">WhatsApp</span>
           </Link>
